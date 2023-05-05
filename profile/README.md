@@ -1,7 +1,7 @@
 # About Unspent Space
-A clubhouse for bitcoiners and cypherpunks, starting in Melbourne
+A clubhouse for bitcoiners and cypherpunks, starting in Melbourne 🇦🇺
 
-_**Note:**_ this organisation is at a very early stage, and this is essentially a draft.
+_**Note:** this organisation is at a very early stage, and this is essentially a draft._
 
 **Mission**: To facilitate the growth of bitcoin and cypherpunk culture in local neighbourhoods.
 

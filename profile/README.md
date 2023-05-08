@@ -14,6 +14,11 @@ _**Note:** this organisation is at a very early stage, and this is essentially a
 - Self-sovereignty
 - Education
 
+## Guiding Documents
+The following documents guide the actions of unspent projects:
+- Bitcoin Whitepaper by Satoshi Nakamoto [source](https://bitcoin.org/bitcoin.pdf)
+- Cypherpunk Manifesto by Eric Hughes [source](https://nakamotoinstitute.org/cypherpunk-manifesto/)
+
 ## Design Principles
 These are the guiding principles that unspent spaces should incorporate when designed. 
 

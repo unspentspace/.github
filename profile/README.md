@@ -18,7 +18,7 @@ _**Note:** this organisation is at a very early stage, and this is essentially a
 These are the guiding principles that unspent spaces should incorporate when designed. 
 
 ### Unspent space
-The space should be significantly unused, and not necessarily highly regarded. This does not mean it can't be in a central location, but it should be a space that is looking for a little bit of love.
+The space should be significantly unused, neglected or disregarded, and not necessarily highly regarded. This does not mean it can't be in a central location, but it should be a space that is looking for a little bit of love.
 
 ### Privacy
 When designed the physical environment for the space and also the logistics for how members interact with the space, privacy should be forefront of mind. For example, where possible, avoid members having to dox themselves more than they already need to. Instead of accepting membership payments via fiat rails online, you can accept bitcoi, cash or trade space time for a helpful hand.

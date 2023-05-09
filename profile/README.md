@@ -30,7 +30,7 @@ When designed the physical environment for the space and also the logistics for 
 
 Another example of where privacy can be maintained is ensuring adherance to respecting the space by using a multi-sig account for bond, rather than using surveillance inside the building.
 
-### Comfortable and Pre-loved furniture
+### Fill up the space, the rest will follow
 
 ### Free and Open Source Software
 Where-ever possible, try to incorporate free and open source software for all activities. For example, rather than paying for a booking software, use an open source repository for building this.

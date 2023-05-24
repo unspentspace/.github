@@ -6,10 +6,11 @@ Unspent Space is a company dedicated to creating physical environments for bitco
 _**Note:** this organisation is at a very early stage, and content may be subject to frequent changes._
 
 ## Mission
+To create local environments for bitcoiners and cypherpunks to work, share and create.
 To facilitate the growth of bitcoin and cypherpunk culture in local neighbourhoods.
 
 ## Vision
-To create local environments for bitcoiners and cypherpunks to work, share and create.
+Our vision is to create 
 
 ## Values
 Not in a particular order, we value:

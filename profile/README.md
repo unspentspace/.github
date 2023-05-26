@@ -1,19 +1,15 @@
 # Unspent Space
 
 ## About
-Unspent Space is a company dedicated to creating physical environments for bitcoiners, starting in Melbourne.
+Unspent Space is a company creating physical environments for bitcoiners, starting in Melbourne.
 
 _**Note:** this organisation is at a very early stage, and content may be subject to frequent changes._
 
 ## Mission
-To create local environments for bitcoiners and cypherpunks to work, share and create.
+To create practical environments for bitcoiners and cypherpunks to work, share and create.
 To facilitate the growth of bitcoin and cypherpunk culture in local neighbourhoods.
 
-## Vision
-Our vision is to create 
-
 ## Values
-Not in a particular order, we value:
 - Bitcoin as sound money technology
 - Free and Open Source Software
 - Privacy

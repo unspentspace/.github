@@ -12,7 +12,7 @@ _**Note:** this organisation is at a very early stage, and content may be subjec
 To facilitate the growth of bitcoin culture in local neighbourhoods.
 
 ## Vision
-Bitcoin citadels everywhere!
+Bitcoin citadels are everywhere!
 
 ## Values
 Not in a particular order, we value:

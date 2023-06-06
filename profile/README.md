@@ -1,4 +1,4 @@
-<img width="300" alt="Screen Shot 2023-06-06 at 10 24 02 pm" src="https://github.com/unspentspace/.github/assets/132414909/e2ec3e4a-7ba1-4277-97a9-9c3fb4a4f64f">
+<img style="max-width: 400;" alt="Screen Shot 2023-06-06 at 10 24 02 pm" src="https://github.com/unspentspace/.github/assets/132414909/e2ec3e4a-7ba1-4277-97a9-9c3fb4a4f64f">
 
 # Unspent Space
 

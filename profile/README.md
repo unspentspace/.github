@@ -8,22 +8,22 @@ Welcome to the unspent.space organisation. unspent.space aims to be a worldwide 
 Please reach out by emailing us or submitting an issue.
 
 
-### Projects
+### ⛰️ Projects
 - [Melbourne](https://github.com/unspentspace/melbourne)
 - [Global](https://github.com/unspentspace/global)
 
 
-## Mission
+## 🚀 Mission
 To facilitate growth of bitcoin and FOSS culture in physical spaces for work and events
 
-## Values
+## 🧡 Values
 - Bitcoin as sound money technology
 - Free and open source software
 - Privacy
 - Self-sovereignity
 - Education
 
-## Guiding Documents
+## 🧭 Guiding Documents
 The following documents guide the actions of unspent projects:
 - Bitcoin Whitepaper by Satoshi Nakamoto [source](https://bitcoin.org/bitcoin.pdf)
 - Cypherpunk Manifesto by Eric Hughes [source](https://nakamotoinstitute.org/cypherpunk-manifesto/)

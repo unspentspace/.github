@@ -9,6 +9,7 @@ Please reach out by emailing us or submitting an issue.
 
 
 ### ⛰️ Projects
+Current projects:
 - [Melbourne](https://github.com/unspentspace/melbourne)
 - [Global](https://github.com/unspentspace/global)
 

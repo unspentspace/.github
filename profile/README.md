@@ -3,7 +3,9 @@
 # Unspent Space
 
 ## About
-Unspent Space is an organisation dedicated to creating bitcoin friendly physical environments, starting in Melbourne.
+unspent.space aims to be a worldwide franchise type thing
+unspent.space/melbourne will be the first location
+
 
 ### Projects
 - [Melbourne](https://github.com/unspentspace/melbourne)
@@ -11,18 +13,15 @@ Unspent Space is an organisation dedicated to creating bitcoin friendly physical
 
 _**Note:** this organisation is at a very early stage, and content may be subject to frequent changes._
 
-## Mission
-To facilitate the growth of bitcoin culture in local neighbourhoods.
 
-## Vision
-Bitcoin citadels are everywhere!
+## Mission
+To facilitate growth of bitcoin and FOSS culture in physical spaces for work and events
 
 ## Values
-Not in a particular order, we value:
 - Bitcoin as sound money technology
-- Free and Open Source Software
+- Free and open source software
 - Privacy
-- Self-sovereignty
+- Self-sovereignity
 - Education
 
 ## Guiding Documents

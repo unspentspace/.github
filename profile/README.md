@@ -3,8 +3,7 @@
 # Unspent Space
 
 ## About
-unspent.space aims to be a worldwide franchise type thing
-unspent.space/melbourne will be the first location
+unspent.space aims to be a worldwide open-source franchise. Anyone can use the brand, documentation and tools to create their own space. unspent.space/melbourne will be the first location.
 
 
 ### Projects

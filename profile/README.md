@@ -25,7 +25,7 @@ To facilitate growth of bitcoin and FOSS culture in physical spaces for work and
 - Education
 
 ## 🧭 Guiding Documents
-The following documents guide the actions of unspent projects:
+The following documents inspire and guide our actions:
 - Bitcoin Whitepaper by Satoshi Nakamoto [source](https://bitcoin.org/bitcoin.pdf)
 - Cypherpunk Manifesto by Eric Hughes [source](https://nakamotoinstitute.org/cypherpunk-manifesto/)
 

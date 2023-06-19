@@ -3,7 +3,7 @@
 # unspent.space
 
 ## 👋 Hi there!
-Welcome to the _unspent.space_ organisation. We aim to be a worldwide open-source franchise. Anyone can use the brand, documentation and tools to create their own space. unspent.space/melbourne will be the first location.
+Welcome to the _unspent.space_ organisation. We aim to be a worldwide open-source franchise for bitcoin meatspaces. Anyone can use the brand, documentation and tools to create their own space. unspent.space/melbourne will be the first location.
 
 Please reach out by emailing us or submitting an issue.
 

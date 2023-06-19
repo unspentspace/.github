@@ -1,4 +1,4 @@
-<img style="width: 200px;" alt="a building with orange and black amongst other buildings" src="https://github.com/unspentspace/.github/assets/132414909/e2ec3e4a-7ba1-4277-97a9-9c3fb4a4f64f">
+<img style="width: 250px;" alt="a building with orange and black amongst other buildings" src="https://github.com/unspentspace/.github/assets/132414909/e2ec3e4a-7ba1-4277-97a9-9c3fb4a4f64f">
 
 # unspent.space
 

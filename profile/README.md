@@ -29,3 +29,4 @@ The following documents inspire and guide our actions:
 - Bitcoin Whitepaper by Satoshi Nakamoto [source](https://bitcoin.org/bitcoin.pdf)
 - Cypherpunk Manifesto by Eric Hughes [source](https://nakamotoinstitute.org/cypherpunk-manifesto/)
 
+Created with ❤️ by @m3rkletr33, @midizzz and @chris-pollard

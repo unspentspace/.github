@@ -5,6 +5,8 @@
 ## 👋 Hi there!
 Welcome to the _unspent.space_ organisation. We aim to be a worldwide open-source franchise for bitcoin meatspaces. Anyone can use the brand, documentation and tools to create their own space. unspent.space/melbourne is the first location we're focussed on.
 
+🎙️ We are documenting our story through a [podcast](https://listen.unspent.space)
+
 Please reach out by emailing us or submitting an issue.
 
 
